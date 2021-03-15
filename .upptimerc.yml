@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: alyf-de # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
@@ -18,7 +18,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://alyf.de/logo.png
-  name: Status
+  name: Systemstatus
   introTitle: "Systemstatus der ALYF GmbH"
   introMessage: "Hier sehen Sie welche unserer Systeme online sind und wo es ggf. gerade Probleme gibt."
   navbar:
