@@ -22,19 +22,19 @@
     "url": "$ALYF_CLOUD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alyf-cloud",
-    "status": "down",
-    "uptime": "9.58%",
-    "uptimeDay": "9.58%",
-    "uptimeWeek": "9.58%",
-    "uptimeMonth": "9.58%",
-    "uptimeYear": "9.58%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
+    "time": 917,
+    "timeDay": 917,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {
-      "2021-03-15": 0
+      "2021-03-15": 13
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$ALYF_ERPNEXT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "erp-next-intern",
-    "status": "down",
-    "uptime": "3.22%",
-    "uptimeDay": "3.22%",
-    "uptimeWeek": "3.22%",
-    "uptimeMonth": "3.22%",
-    "uptimeYear": "3.22%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 980,
+    "timeDay": 980,
+    "timeWeek": 980,
+    "timeMonth": 980,
+    "timeYear": 980,
     "dailyMinutesDown": {
-      "2021-03-15": 0
+      "2021-03-15": 13
     }
   }
 ]
