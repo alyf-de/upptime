@@ -42,7 +42,7 @@
     "url": "$ALYF_ERPNEXT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "erp-next-intern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
