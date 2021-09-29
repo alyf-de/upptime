@@ -4,19 +4,19 @@
     "url": "https://alyf.de",
     "icon": "https://favicons.githubusercontent.com/alyf.de",
     "slug": "alyf-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1264,
-    "timeDay": 1047,
-    "timeWeek": 1323,
-    "timeMonth": 1316,
-    "timeYear": 1264,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1263,
+    "timeDay": 1056,
+    "timeWeek": 1291,
+    "timeMonth": 1309,
+    "timeYear": 1263,
     "dailyMinutesDown": {
-      "2021-09-29": 0
+      "2021-09-29": 15
     }
   },
   {
