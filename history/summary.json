@@ -4,9 +4,9 @@
     "url": "https://alyf.de",
     "icon": "https://favicons.githubusercontent.com/alyf.de",
     "slug": "alyf-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1149,
     "timeMonth": 1267,
     "timeYear": 1260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-05": 0
+    }
   },
   {
     "name": "ALYF Cloud",
@@ -46,12 +48,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1078,
     "timeDay": 1407,
     "timeWeek": 1322,
-    "timeMonth": 1399,
+    "timeMonth": 1408,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2021-10-05": 57,
