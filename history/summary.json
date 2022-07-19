@@ -4,18 +4,20 @@
     "url": "https://alyf.de",
     "icon": "https://favicons.githubusercontent.com/alyf.de",
     "slug": "alyf-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1259,
+    "time": 1260,
     "timeDay": 1697,
     "timeWeek": 1941,
     "timeMonth": 1473,
     "timeYear": 1262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 1
+    }
   },
   {
     "name": "ALYF Cloud",
@@ -44,9 +46,9 @@
     "url": "$ALYF_ERPNEXT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "erp-next-intern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -56,6 +58,7 @@
     "timeMonth": 1610,
     "timeYear": 1307,
     "dailyMinutesDown": {
+      "2022-07-19": 0,
       "2022-05-30": 425,
       "2022-03-25": 29,
       "2021-10-05": 57
