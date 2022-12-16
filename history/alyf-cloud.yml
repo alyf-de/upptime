@@ -1,7 +1,7 @@
 url: $ALYF_CLOUD_URL
-status: up
-code: 200
-responseTime: 1031
-lastUpdated: 2022-12-15T23:38:58.353Z
+status: down
+code: 500
+responseTime: 803
+lastUpdated: 2022-12-16T11:38:56.895Z
 startTime: Mon Mar 15 2021 15:17:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
