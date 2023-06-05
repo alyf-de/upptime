@@ -4,18 +4,19 @@
     "url": "https://alyf.de",
     "icon": "https://icons.duckduckgo.com/ip3/alyf.de.ico",
     "slug": "alyf-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1390,
+    "time": 1391,
     "timeDay": 1788,
     "timeWeek": 2178,
     "timeMonth": 1793,
     "timeYear": 1449,
     "dailyMinutesDown": {
+      "2023-06-05": 0,
       "2022-07-19": 62
     }
   },
