@@ -4,11 +4,11 @@
     "url": "https://alyf.de",
     "icon": "https://icons.duckduckgo.com/ip3/alyf.de.ico",
     "slug": "alyf-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "95.62%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
     "time": 2150,
     "timeDay": 6294,
@@ -16,7 +16,7 @@
     "timeMonth": 2905,
     "timeYear": 2135,
     "dailyMinutesDown": {
-      "2024-08-24": 63,
+      "2024-08-24": 64,
       "2023-11-07": 42,
       "2023-10-16": 200
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 1376,
     "dailyMinutesDown": {
-      "2024-08-24": 1212,
+      "2024-08-24": 1222,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -124,9 +124,9 @@
     "slug": "erp-next-intern",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1578,
     "timeDay": 3407,
@@ -134,7 +134,6 @@
     "timeMonth": 1649,
     "timeYear": 1540,
     "dailyMinutesDown": {
-      "2024-08-24": 8,
       "2023-11-06": 175,
       "2023-10-16": 200
     }
