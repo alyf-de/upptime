@@ -4,11 +4,11 @@
     "url": "https://alyf.de",
     "icon": "https://icons.duckduckgo.com/ip3/alyf.de.ico",
     "slug": "alyf-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
     "time": 2145,
     "timeDay": 8151,
@@ -16,7 +16,7 @@
     "timeMonth": 3839,
     "timeYear": 2247,
     "dailyMinutesDown": {
-      "2024-08-24": 68,
+      "2024-08-24": 64,
       "2023-11-07": 42,
       "2023-10-16": 200
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 1376,
     "dailyMinutesDown": {
-      "2024-08-24": 1322,
+      "2024-08-24": 1331,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
