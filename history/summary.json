@@ -6,9 +6,9 @@
     "slug": "alyf-website",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "87.19%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "86.05%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.92%",
     "time": 2255,
     "timeDay": 8390,
@@ -16,7 +16,7 @@
     "timeMonth": 4556,
     "timeYear": 2365,
     "dailyMinutesDown": {
-      "2024-08-25": 121,
+      "2024-08-25": 138,
       "2024-08-24": 63,
       "2023-11-07": 42,
       "2023-10-16": 200
@@ -32,14 +32,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.58%",
+    "uptimeYear": "79.57%",
     "time": 1375,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1376,
     "dailyMinutesDown": {
-      "2024-08-25": 318,
+      "2024-08-25": 335,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -124,9 +124,9 @@
     "url": "$ALYF_ERPNEXT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "erp-next-intern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -136,6 +136,7 @@
     "timeMonth": 1957,
     "timeYear": 1569,
     "dailyMinutesDown": {
+      "2024-08-25": 0,
       "2023-11-06": 175,
       "2023-10-16": 200
     }
