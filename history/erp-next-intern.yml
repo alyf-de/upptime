@@ -1,7 +1,7 @@
 url: $ALYF_ERPNEXT_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-25T09:40:37.262Z
+status: up
+code: 200
+responseTime: 5930
+lastUpdated: 2024-08-25T09:45:47.272Z
 startTime: 2021-03-15T15:17:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
