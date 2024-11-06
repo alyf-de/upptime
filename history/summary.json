@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 2455,
-    "timeDay": 1509,
-    "timeWeek": 1805,
-    "timeMonth": 1874,
+    "time": 2454,
+    "timeDay": 1596,
+    "timeWeek": 1815,
+    "timeMonth": 1851,
     "timeYear": 2557,
     "dailyMinutesDown": {
       "2024-08-25": 369,
-      "2024-08-24": 63,
-      "2023-11-07": 42
+      "2024-08-24": 63
     }
   },
   {
@@ -27,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alyf-cloud",
     "status": "down",
-    "uptime": "88.64%",
+    "uptime": "88.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.91%",
+    "uptimeYear": "59.63%",
     "time": 1377,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1360,
+    "timeYear": 1361,
     "dailyMinutesDown": {
-      "2024-11-05": 14,
+      "2024-11-06": 14,
+      "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -202,10 +202,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1612,
-    "timeDay": 1037,
-    "timeWeek": 1246,
-    "timeMonth": 1320,
-    "timeYear": 1580,
+    "timeDay": 1203,
+    "timeWeek": 1237,
+    "timeMonth": 1303,
+    "timeYear": 1579,
     "dailyMinutesDown": {}
   }
 ]
